@@ -19,7 +19,7 @@ namespace CalculadoraWPF.Vistas
     /// </summary>
     public partial class Calculadora : Window
     {
-        public Calculadora()
+        public Calculadora() 
         {
             InitializeComponent();
         }
